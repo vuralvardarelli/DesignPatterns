@@ -66,7 +66,7 @@ namespace SolidDesignPrinciples
             #endregion
 
             #region Dependency Inversion Principle
-
+            //Research r = new Research();
             #endregion
         }
     }
