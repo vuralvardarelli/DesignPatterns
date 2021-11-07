@@ -60,6 +60,14 @@ namespace SolidDesignPrinciples
             sq.Width = 4;
             Console.WriteLine($"{sq} has area {rc.Area(sq)}");
             #endregion
+
+            #region Interface Segregation Principle
+            // to smaller interfaces.
+            #endregion
+
+            #region Dependency Inversion Principle
+
+            #endregion
         }
     }
 
